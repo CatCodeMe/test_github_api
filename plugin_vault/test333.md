@@ -2,6 +2,6 @@
 {"dg-publish":true,"tags":["test"]}
 ---
 
-新笔1212321321fdsf3记，引用exca3123213lidraw
+新笔33121212321321fdsf3记，引用exca3123213lidraw
 
-![xxx.excalidraw.png](img/user/Excalidraw/xxx.excalidraw.png)1232
+![xx12321x.excalidraw.png](img/user/Excalidraw/xx12321x.excalidraw.png)1232

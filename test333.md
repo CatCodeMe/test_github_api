@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["test"]}
+{"dg-publish":true,"tags":["test"],"dg-path":"/"}
 ---
 
-132
+13233333
 ![test.excalidraw.png](img/user/Excalidraw/test.excalidraw.png)
 
 

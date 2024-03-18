@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["test"],"dg-path":"/"}
+{"dg-publish":true,"tags":["test"],"dg-path":"a/ab"}
 ---
 
 ffff13233333333
